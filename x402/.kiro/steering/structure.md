@@ -2,7 +2,7 @@
 
 ## Directory Layout
 ```
-x402/
+ai-to-ai/
 ├── frontend/                 # React frontend application
 │   ├── src/
 │   │   ├── components/       # Reusable UI components
@@ -23,7 +23,7 @@ x402/
 │   │   ├── schemas/         # Pydantic schemas for validation
 │   │   ├── services/        # Business logic layer
 │   │   ├── core/            # Core configuration and utilities
-│   │   └── x402/            # x402 protocol implementation
+│   │   └── ai_to_ai/         # AI to AI protocol implementation
 │   ├── tests/               # Backend test suite
 │   ├── requirements.txt     # Python dependencies
 │   └── alembic/             # Database migrations
@@ -82,7 +82,7 @@ docs/
 ├── architecture/            # System design documents
 ├── deployment/              # Deployment guides
 ├── development/             # Developer setup and guidelines
-└── x402-protocol/           # Protocol specification
+└── ai-to-ai-protocol/       # Protocol specification
 ```
 
 ## Asset Organization

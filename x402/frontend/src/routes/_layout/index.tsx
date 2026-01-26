@@ -7,7 +7,7 @@ export const Route = createFileRoute("/_layout/")({
   head: () => ({
     meta: [
       {
-        title: "Dashboard - x402 Payment Protocol",
+        title: "Dashboard - AI to AI Payment Protocol",
       },
     ],
   }),

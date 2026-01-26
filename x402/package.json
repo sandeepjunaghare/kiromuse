@@ -1,5 +1,5 @@
 {
-  "name": "x402-payment-protocol",
+  "name": "ai-to-ai-payment-protocol",
   "private": true,
   "workspaces": [
     "frontend"

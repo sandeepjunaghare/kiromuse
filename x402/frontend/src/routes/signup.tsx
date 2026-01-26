@@ -51,7 +51,7 @@ export const Route = createFileRoute("/signup")({
   head: () => ({
     meta: [
       {
-        title: "Sign Up - x402 Payment Protocol",
+        title: "Sign Up - AI to AI Payment Protocol",
       },
     ],
   }),

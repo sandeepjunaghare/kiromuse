@@ -1,4 +1,4 @@
-# x402 E-Commerce Implementation Guide
+# AI to AI E-Commerce Implementation Guide
 ## Comprehensive Research & Coding Agent Instructions
 
 ---
@@ -19,8 +19,8 @@
 
 ## 1. Overview & Architecture
 
-### What is x402?
-x402 is an open HTTP-based payment protocol that uses the `HTTP 402 Payment Required` status code to enable instant stablecoin micropayments. It eliminates the need for accounts, API keys, or subscriptions.
+### What is AI to AI?
+AI to AI is an open HTTP-based payment protocol that uses the `HTTP 402 Payment Required` status code to enable instant stablecoin micropayments. It eliminates the need for accounts, API keys, or subscriptions.
 
 ### Core Flow
 ```

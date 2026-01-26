@@ -1,7 +1,7 @@
 # Product Overview
 
 ## Product Purpose
-x402 is a micropayment protocol system that enables AI agents to conduct payment transactions on behalf of buyers. The system facilitates seamless, automated transactions between creators, ecommerce providers, and end users through intelligent agent intermediaries.
+AI to AI is a micropayment protocol system that enables AI agents to conduct payment transactions on behalf of buyers. The system facilitates seamless, automated transactions between creators, ecommerce providers, and end users through intelligent agent intermediaries.
 
 ## Target Users
 **Primary Users:**
@@ -11,7 +11,7 @@ x402 is a micropayment protocol system that enables AI agents to conduct payment
 - **End Users**: Consumers whose AI agents make purchases on their behalf
 
 ## Key Features
-- **x402 Payment Protocol**: Core micropayment infrastructure for AI agents
+- **AI to AI Payment Protocol**: Core micropayment infrastructure for AI agents
 - **Agent Transaction Management**: AI agents can initiate, process, and complete payments autonomously
 - **Creator Integration**: APIs for creators to receive payments through agent transactions
 - **Ecommerce Platform APIs**: Integration with existing ecommerce systems
@@ -27,10 +27,10 @@ x402 is a micropayment protocol system that enables AI agents to conduct payment
 - Scale payment processing for high-volume, low-value transactions
 
 ## User Journey
-1. **Setup**: Creators/merchants integrate x402 APIs into their platforms
+1. **Setup**: Creators/merchants integrate AI to AI APIs into their platforms
 2. **Agent Configuration**: Users configure their AI agents with payment preferences and limits
 3. **Discovery**: AI agents discover products/services through integrated platforms
-4. **Transaction**: Agents initiate micropayments using x402 protocol on behalf of users
+4. **Transaction**: Agents initiate micropayments using AI to AI protocol on behalf of users
 5. **Processing**: System handles payment verification, processing, and settlement
 6. **Completion**: Creators receive payments, users receive goods/services, agents log transactions
 

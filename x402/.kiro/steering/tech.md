@@ -18,7 +18,7 @@
 - Redis for caching and session management
 
 **Payment Infrastructure:**
-- x402 protocol implementation
+- AI to AI protocol implementation
 - Stripe/PayPal APIs for payment processing
 - Webhook handling for transaction events
 - JWT for authentication and authorization
@@ -28,14 +28,14 @@
 - **Frontend Service**: React SPA for user interfaces
 - **API Gateway**: FastAPI routing and authentication
 - **Agent Service**: PydanticAI-powered transaction agents
-- **Payment Service**: x402 protocol and payment processing
+- **Payment Service**: AI to AI protocol and payment processing
 - **Creator Service**: Creator platform integrations
 - **Analytics Service**: Transaction monitoring and reporting
 
 **Data Flow:**
 1. React frontend communicates with FastAPI backend
 2. PydanticAI agents handle transaction logic and decision-making
-3. Payment service processes x402 protocol transactions
+3. Payment service processes AI to AI protocol transactions
 4. Creator/ecommerce integrations via REST APIs
 5. Real-time updates via WebSocket connections
 

@@ -60,7 +60,7 @@ export const Route = createFileRoute("/reset-password")({
   head: () => ({
     meta: [
       {
-        title: "Reset Password - x402 Payment Protocol",
+        title: "Reset Password - AI to AI Payment Protocol",
       },
     ],
   }),

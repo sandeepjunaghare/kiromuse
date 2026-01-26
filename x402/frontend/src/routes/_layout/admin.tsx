@@ -21,7 +21,7 @@ export const Route = createFileRoute("/_layout/admin")({
   head: () => ({
     meta: [
       {
-        title: "Admin - x402 Payment Protocol",
+        title: "Admin - AI to AI Payment Protocol",
       },
     ],
   }),

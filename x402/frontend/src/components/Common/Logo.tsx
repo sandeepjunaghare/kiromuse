@@ -17,7 +17,7 @@ export function Logo({
   const content = (
     <img
       src={logo}
-      alt="CompuMatrice x402"
+      alt="CompuMatrice AI to AI"
       className={cn(variant === "full" ? "h-6 w-auto" : "size-5", className)}
     />
   )
